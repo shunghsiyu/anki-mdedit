@@ -2,6 +2,7 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import App from './App'
+import 'material-design-lite'
 
 /* eslint-disable no-new */
 new Vue({
